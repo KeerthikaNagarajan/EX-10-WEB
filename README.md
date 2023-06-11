@@ -1,6 +1,16 @@
-# Exp 10 Create a Gliding box using CSS Animation
-## Program:
-```
+# Ex-10:
+## Create a Gliding box using CSS Animation
+### AIM:
+The aim of the provided CSS code is to create a gliding effect on a box when hovering over it.
+### ALGORITHM:
+1. Define the CSS styles for the .card class, which represents the box.
+2. Use the animation property to specify the shadow-wave animation with a duration of 1 second and an infinite repeat.
+3. Define the @keyframes rule for the shadow-wave animation, specifying different border colors and box shadows at different percentage points of the animation.
+4. Set the colors for various CSS variables using the :root pseudo-class.
+5. Apply a background image gradient and other styles to the body element.
+6. Customize the font styles and spacing for the text within the card.
+### PROGRAM:
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -111,11 +121,13 @@
 </body>
 </html>
 ```
-## Output:
-### Gliding Animation:
+### OUTPUT:
+#### Gliding Animation:
 
 ![1](https://github.com/KeerthikaNagarajan/Gliding-box-using-CSS-Animation/assets/93427089/f889ea32-3226-4824-9a52-5cdbb74b470e)
 
-### On Cursor Hover:
+#### On Cursor Hover:
 ![2](https://github.com/KeerthikaNagarajan/Gliding-box-using-CSS-Animation/assets/93427089/e912e780-a3cb-4068-b060-30235e54b2e4)
 
+### RESULT:
+The result is a box (<div> element) with a gliding effect. When hovering over the box, it animates with a changing border color and box shadow, giving it a dynamic appearance. The box is styled with different colors and fonts, creating an attractive visual effect.
