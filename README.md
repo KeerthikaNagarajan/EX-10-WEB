@@ -130,4 +130,4 @@ The aim of the provided CSS code is to create a gliding effect on a box when hov
 ![2](https://github.com/KeerthikaNagarajan/Gliding-box-using-CSS-Animation/assets/93427089/e912e780-a3cb-4068-b060-30235e54b2e4)
 
 ### RESULT:
-The result is a box (<div> element) with a gliding effect. When hovering over the box, it animates with a changing border color and box shadow, giving it a dynamic appearance. The box is styled with different colors and fonts, creating an attractive visual effect.
+The result is a box (div element) with a gliding effect. When hovering over the box, it animates with a changing border color and box shadow, giving it a dynamic appearance. The box is styled with different colors and fonts, creating an attractive visual effect.
